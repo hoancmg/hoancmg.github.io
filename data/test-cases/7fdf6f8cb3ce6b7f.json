@@ -1,0 +1,146 @@
+{
+  "uid" : "7fdf6f8cb3ce6b7f",
+  "name" : "As an administrator, I can navigate to modules page",
+  "fullName" : "Manage modules.As an administrator, I can navigate to modules page",
+  "historyId" : "90704783197a2d501d060b5935af8a0b",
+  "time" : {
+    "start" : 1628753376022,
+    "stop" : 1628753386603,
+    "duration" : 10581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I should see dashboard page is loaded",
+      "time" : {
+        "start" : 1628753376023,
+        "stop" : 1628753377931,
+        "duration" : 1908
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on \"Manage modules\" button on dashboard",
+      "time" : {
+        "start" : 1628753377931,
+        "stop" : 1628753379403,
+        "duration" : 1472
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click on settings button on any module",
+      "time" : {
+        "start" : 1628753379403,
+        "stop" : 1628753383829,
+        "duration" : 4426
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see the module settings side sheet opens",
+      "time" : {
+        "start" : 1628753383829,
+        "stop" : 1628753385885,
+        "duration" : 2056
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I close the module settings side sheet",
+      "time" : {
+        "start" : 1628753385885,
+        "stop" : 1628753386601,
+        "duration" : 716
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Manage modules"
+  }, {
+    "name" : "testClass",
+    "value" : "Manage modules"
+  }, {
+    "name" : "testMethod",
+    "value" : "As an administrator, I can navigate to modules page"
+  }, {
+    "name" : "package",
+    "value" : "Manage modules"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.131"
+  }, {
+    "name" : "browserVersion",
+    "value" : "92.0.4515.131"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fdf6f8cb3ce6b7f.json",
+  "parameterValues" : [ "chrome-92.0.4515.131", "92.0.4515.131" ]
+}

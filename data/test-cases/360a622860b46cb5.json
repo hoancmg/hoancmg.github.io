@@ -1,0 +1,116 @@
+{
+  "uid" : "360a622860b46cb5",
+  "name" : "As an administrator, I can log in to the system",
+  "fullName" : "Manage modules.As an administrator, I can log in to the system",
+  "historyId" : "816f4432dfd92cf7479613fb89e46351",
+  "time" : {
+    "start" : 1628753351535,
+    "stop" : 1628753376017,
+    "duration" : 24482
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I am on the login page",
+      "time" : {
+        "start" : 1628753351538,
+        "stop" : 1628753356830,
+        "duration" : 5292
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I login as an admin account",
+      "time" : {
+        "start" : 1628753356831,
+        "stop" : 1628753365930,
+        "duration" : 9099
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should see dashboard page is loaded",
+      "time" : {
+        "start" : 1628753365930,
+        "stop" : 1628753376014,
+        "duration" : 10084
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Manage modules"
+  }, {
+    "name" : "testClass",
+    "value" : "Manage modules"
+  }, {
+    "name" : "testMethod",
+    "value" : "As an administrator, I can log in to the system"
+  }, {
+    "name" : "package",
+    "value" : "Manage modules"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.131"
+  }, {
+    "name" : "browserVersion",
+    "value" : "92.0.4515.131"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "360a622860b46cb5.json",
+  "parameterValues" : [ "chrome-92.0.4515.131", "92.0.4515.131" ]
+}
