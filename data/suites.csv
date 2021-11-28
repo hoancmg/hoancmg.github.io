@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Aug 12 14:29:46 ICT 2021","Thu Aug 12 14:30:36 ICT 2021","49519","","Manage modules","","Manage modules","As an administrator, I can create new module","As an administrator, I can create new module",""
-"passed","Thu Aug 12 14:29:11 ICT 2021","Thu Aug 12 14:29:36 ICT 2021","24482","","Manage modules","","Manage modules","As an administrator, I can log in to the system","As an administrator, I can log in to the system",""
-"passed","Thu Aug 12 14:29:36 ICT 2021","Thu Aug 12 14:29:46 ICT 2021","10581","","Manage modules","","Manage modules","As an administrator, I can navigate to modules page","As an administrator, I can navigate to modules page",""
-"passed","Thu Aug 12 14:30:36 ICT 2021","Thu Aug 12 14:30:49 ICT 2021","12881","","Manage modules","","Manage modules","As an administrator, I can delete a module","As an administrator, I can delete a module",""
